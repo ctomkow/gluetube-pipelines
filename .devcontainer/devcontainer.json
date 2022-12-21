@@ -2,6 +2,4 @@
   "image": "ctomkow/gluetube:latest",
   "workspaceMount": "source=${localWorkspaceFolder},target=/home/gluetube/.gluetube/pipelines,type=bind",
   "workspaceFolder": "/home/gluetube/.gluetube/pipelines",
-  "overrideCommand": false,
-  "init": true,
 }
